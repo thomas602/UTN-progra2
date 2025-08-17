@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+
+# NetBeans specific files
+/build/
+/dist/
+/nbproject/private/
+
+# IDE files
+*.iml
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
